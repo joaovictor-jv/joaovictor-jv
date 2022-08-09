@@ -5,7 +5,7 @@
 
 <h1>Você que tem empresa, bora fazer um projetinho pae</h1>
 
-Hi João Victor 👋
+Hi Toguro 👋
 - 🔭 I’m currently working on;
 - 💪 Shape talk for me;
 
