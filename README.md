@@ -1,9 +1,12 @@
-### Hi there 👋
+###
 
-<!--
-**joaovictor-jv/joaovictor-jv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img align="center" height="100"  src="https://pbs.twimg.com/profile_images/1052079357852835840/EeKb668h_400x400.jpg"> </img>
+</div>
 
-Here are some ideas to get you started:
+Hi João Victor 👋
+
+<img height="100em" src="https://camo.githubusercontent.com/cb5c3d0c8e6da95bd61901094a49b5a83782522d9f39fa2ba55e6bfb08a175b9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d4a697a7265656c4d657373267265706f3d506574732d50726f707269657461697265267468656d653d626c75656265727279" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor-jv&amp;repo=Prova-POO&amp;theme=gradient" style="max-width: 100%;">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
