@@ -7,7 +7,6 @@
 
 Hi João Victor 👋
 - 🔭 I’m currently working on;
-- 💪 Shape talk for me;
 
 <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor-jv&repo=Prova-POO&theme=dark" style="max-width: 100%;">
 
