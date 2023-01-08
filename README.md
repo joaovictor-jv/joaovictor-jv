@@ -7,7 +7,9 @@
 
 Hi João Victor 👋
 
-<img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor-jv&repo=Calculadora&theme=dark" style="max-width: 100%;">
+<a href="https://github.com/joaovictor-jv/Portfolio">
+ <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor-jv&repo=Portfolio&theme=dark" style="max-width: 100%;">
+</a>
 
 <img height="400em" src="https://camo.githubusercontent.com/1f1c1904898285aa36d92c21af2eea0223428bfa8c2600b3405f2d8f414df69c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4a697a7265656c4d657373266c616e67735f636f756e743d38267468656d653d626c75656265727279" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-jv&amp;langs_count=8&amp;theme=blueberry" style="max-width: 100%;">
 
